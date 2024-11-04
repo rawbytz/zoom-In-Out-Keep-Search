@@ -2,7 +2,7 @@
 // @name         Zoom In/Out and Keep Search in WorkFlowy
 // @namespace    https://rawbytz.wordpress.com
 // @version      1.0
-// @description  Zoom In and Out inside WorkFlowy and keep search active
+// @description  WorkFlowy Zoom In and Out keeping search active
 // @author       rawbytz
 // @match        https://workflowy.com/*
 // @match        https://*.workflowy.com/*
