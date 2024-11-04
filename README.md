@@ -1,4 +1,4 @@
-## Zoom In/Out and Keep Search
+## Zoom In/Out and Keep Search in WorkFlowy
 * Zoom In and Out inside WorkFlowy and keep search active 
 * _Ctrl+Alt+Down_ = **Zoom In Keep Search**
 * _Ctrl+Alt+Up_ = **Zoom Out Keep Search**
