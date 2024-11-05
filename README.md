@@ -5,4 +5,5 @@
 * [Click here to install](https://github.com/rawbytz/zoom-In-Out-Keep-Search/raw/master/zoomInOutKeepSearch.user.js) into your script manager.
 
 ### Version Notes
+- v1.1 (2024-11-05): Fix return focus bug
 - v1.0 (2024-11-04): Initial release

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Zoom In/Out and Keep Search in WorkFlowy
 // @namespace    https://rawbytz.wordpress.com
-// @version      1.0
+// @version      1.1
 // @description  WorkFlowy Zoom In and Out keeping search active using Ctrl+Alt+Up/Down (Mac:control+Option+Up/Down)
 // @author       rawbytz
 // @match        https://workflowy.com/*
@@ -20,7 +20,7 @@
   function setLocationKeepSearch(item) {
     if (!item) return
     location.href = getBaseUrl(item) + getSearchParam();
-    WF.editItemName(item.isMainDocumentRoot ? item.getVisibleChildren()[0] : item);
+    WF.editItemName(item.isMainDocumentRoot() ? item.getVisibleChildren()[0] : item);
   }
 
   document.addEventListener("keydown", function (event) {
