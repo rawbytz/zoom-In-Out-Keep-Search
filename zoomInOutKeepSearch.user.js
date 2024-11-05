@@ -2,7 +2,7 @@
 // @name         Zoom In/Out and Keep Search in WorkFlowy
 // @namespace    https://rawbytz.wordpress.com
 // @version      1.0
-// @description  WorkFlowy Zoom In and Out keeping search active using Ctrl+Alt+Up/Down
+// @description  WorkFlowy Zoom In and Out keeping search active using Ctrl+Alt+Up/Down (Mac:control+Option+Up/Down)
 // @author       rawbytz
 // @match        https://workflowy.com/*
 // @match        https://*.workflowy.com/*
